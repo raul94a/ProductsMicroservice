@@ -31,6 +31,7 @@ making the application performant and maintainable.
 ## Setup
 
 ./gradlew build
+
 ./gradlew bootRun
 
 Example curl request (Unix systems)
