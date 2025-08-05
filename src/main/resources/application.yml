@@ -2,7 +2,7 @@ spring:
   r2dbc:
     url: r2dbc:h2:file:///./products-h2
     username: sa
-    password: ""
+    password: pwd
   sql:
     init:
       mode: always
